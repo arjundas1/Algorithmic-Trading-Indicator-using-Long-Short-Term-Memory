@@ -23,3 +23,31 @@ Pramod, B. S. et. al (2020) The proposed approach uses market data to forecast s
 Shin, H. G. et. al (2019) For stock price prediction, this study offers a deep multimodal reinforcement learning approach that combines convolutional neural networks (CNN) with long short-term memory (LSTM) neural networks. The proposed machine learning system leverages stock trading data to create multiple charts, which are then fed into the CNN layer. The CNN layer extracts features, which are then separated into column vectors and sent into the LSTM layer. A multi-modal structure is used to employ multiple types of charts, in which the input layer and the concealed layer are separated, and the individual operation results are merged. Finally, the model's performance is great in both bear and bull markets.
 
 Wu, J. M. T. et. al (2021) This article presents a novel framework structure that blends Convolution Neural Network (CNN) and Long–Short–Term Memory Neural Network to obtain a more accurate stock price forecast (LSTM). Stock sequence array convolutional LSTM is the term given to this innovative approach (SACLSTM). It creates a sequence array of historical data and its leading indicators (options and futures), and uses the array as the input image of the CNN framework, extracting certain feature vectors through the convolutional layer and the layer of pooling, and as the input vector of LSTM, with ten stocks in the United States of America and Taiwan as the experimental data. When compared directly to earlier approaches, the prediction performance of the suggested algorithm in this paper produces better results.
+
+
+
+
+References
+Siami-Namini, S., Tavakoli, N., & Namin, A. S. (2018, December). A comparison of ARIMA and LSTM in forecasting time series. In 2018 17th IEEE international conference on machine learning and applications (ICMLA) (pp. 1394-1401). IEEE.
+
+Selvin, S., Vinayakumar, R., Gopalakrishnan, E. A., Menon, V. K., & Soman, K. P. (2017, September). Stock price prediction using LSTM, RNN and CNN-sliding window model. In 2017 international conference on advances in computing, communications and informatics (icacci) (pp. 1643-1647). IEEE.
+
+Alzheev, A. V., & Kochkarov, R. A. (2020). Comparative analysis of ARIMA and lSTM predictive models: Evidence from Russian stocks. Finan.: Theory Pract, 4(1), 14-23.
+
+Liu, S., Liao, G., & Ding, Y. (2018, May). Stock transaction prediction modeling and analysis based on LSTM. In 2018 13th IEEE Conference on Industrial Electronics and Applications (ICIEA) (pp. 2787-2790). IEEE.
+
+Kwon, D. H., Kim, J. B., Heo, J. S., Kim, C. M., & Han, Y. H. (2019). Time series classification of cryptocurrency price trend based on a recurrent LSTM neural network. Journal of Information Processing Systems, 15(3), 694-706.
+
+Banik, S., Sharma, N., Mangla, M., Mohanty, S. N., & Shitharth, S. (2022). LSTM based decision support system for swing trading in stock market. Knowledge-Based Systems, 239, 107994.
+
+Zou, Z., & Qu, Z. (2020). Using LSTM in Stock prediction and Quantitative Trading. CS230: Deep Learning, Winter.
+
+Chen, G., Chen, Y., & Fushimi, T. (2021). Application of deep learning to algorithmic trading. Stanford University, Tech. Rep, Tech. Rep., 2017.[Online]. Available: http://cs229. stanford. edu/proj2017/final-reports/5241098. Pdf.
+
+Moghar, A., & Hamiche, M. (2020). Stock market prediction using LSTM recurrent neural network. Procedia Computer Science, 170, 1168-1173.
+
+Pramod, B. S., & Pm, M. S. (2020). Stock price prediction using LSTM. Test Engineering and Management, 83, 5246-5251.
+
+Shin, H. G., Ra, I., & Choi, Y. H. (2019, October). A deep multimodal reinforcement learning system combined with CNN and LSTM for stock trading. In 2019 International conference on information and communication technology convergence (ICTC) (pp. 7-11). IEEE.
+
+Wu, J. M. T., Li, Z., Herencsar, N., Vo, B., & Lin, J. C. W. (2021). A graph-based CNN-LSTM stock price prediction algorithm with leading indicators. Multimedia Systems, 1-20.
