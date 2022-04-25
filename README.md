@@ -1,1 +1,1 @@
-# Algorithmic-Trading-Indicator-using-Recurrent-Neural-Network
+# Algorithmic Trading Indicator using Recurrent Neural Network
