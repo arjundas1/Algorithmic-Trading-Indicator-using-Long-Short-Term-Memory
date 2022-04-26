@@ -1,11 +1,11 @@
 <h1 align="center"> Algorithmic Trading Indicator using Recurrent Neural Network </h1>
-
+<!--
 <p align="center">
   <a href="https://github.com/arjundas1/Algorithmic-Trading-Indicator-using-Recurrent-Neural-Network">
     <img src="" width="650" height="300">
   </a>
 </p>
-
+-->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
