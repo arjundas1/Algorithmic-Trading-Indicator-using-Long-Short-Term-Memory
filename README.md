@@ -1,4 +1,4 @@
-<h1 align="center"> Algorithmic Trading Indicator using Recurrent Neural Network </h1>
+<h1 align="center"> Algorithmic Trading Indicator using Advanced Recurrent Neural Network </h1>
 <!--
 <p align="center">
   <a href="https://github.com/arjundas1/Algorithmic-Trading-Indicator-using-Recurrent-Neural-Network">
